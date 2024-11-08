@@ -1,0 +1,2 @@
+# awscasestudyassignment
+weatherAPI
